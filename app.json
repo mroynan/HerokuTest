@@ -1,0 +1,17 @@
+{
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "HerokuTest",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
