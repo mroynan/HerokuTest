@@ -1,11 +1,4 @@
-{
-  "name": "tolltestapp",
-  "description": "toll test app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "12.13.0"
-  }
-}
-"scripts": {
-      "start": "node tolltestapp.js"
+"main": "app.js",
+ "scripts": {
+      "start": "node app.js"
   }
